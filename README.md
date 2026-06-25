@@ -4,7 +4,7 @@
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/shashwat-kumar07"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shashwat_linkedin"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shashwat07kumar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -62,5 +62,5 @@
 
 <h3 align="center">🔥 Contribution Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat20017&theme=dark&hide_border=true&background=0d1117&title=ffffff&text=9f9f9f" alt="Shashwat's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat20017&theme=dark&hide_border=true&background=0d1117&title=ffffff&text=9f9f9f&v=2026" alt="Shashwat's Streak" />
 </p>
